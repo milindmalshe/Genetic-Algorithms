@@ -1,4 +1,4 @@
-function genalg2D
+function GA2D
 
 % 2-D Genetic Algorithm
 %
